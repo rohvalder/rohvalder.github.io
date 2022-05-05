@@ -1,4 +1,10 @@
-## Project 1 – Airline Fatality Dashboard
+
+
+---
+title: "Project 1 – Airline Fatality Dashboard"
+excerpt: "Short description of portfolio item number 1<br/>"
+collection: portfolio
+---
 
 The data is fetched from the primary source which is provided – Aviation Safety Network. It provides details about around 56 airlines and the incidents that occurred during 1985-1999 and 2000-2014 range. I have used Tableau to represent the data and have tried to use the charts that we have learned in the past.
 
