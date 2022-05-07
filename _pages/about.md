@@ -14,10 +14,9 @@ redirect_from:
 - More than 16 years of strong experience in the areas of Software Design, Development, Testing, Support and Administration in Insurance Domain, Corporate Investment & Wealth Management Banking Domain, Integrated Supply & Trading in Oil, Gas & Power Domain, and Retail Domain.
 - Have worked on Python and R programming academic projects.
 - Good skills in Informatica, Control M, Erwin, SSIS/SSRS, Teradata, Oracle, UDB, SAP, MS SQL Server, and MS Excel
-- Have interviewed and screened a lot of candidates for Mutual and CRI for its various clients
+- I have interviewed and screened a lot of candidates for ETL positions for various clients
 - Involved in all phases of SDLC (Software Development Life Cycle) including system analysis, design, coding, testing, debugging, support, administration, and documentation
 - Worked on Remedy ITSM, Business Objects, and Tableau to develop reports as per specification
-- Worked on various applications and teams at Mutual like MDM, IDR, ED2, MAPs, Salesforce, CTP, IPA, MOIS, etc.
 - Administration of Informatica, JBoss, SAS, Splunk, Rightfax, Tableau, IIS, and Sharepoint
 - Proficient knowledge and hands-on experience with Extraction, Transformation, and Loading (ETL) using various versions of Informatica PowerCenter and IDQ. Experience in debugging mappings. Identified bugs in existing mappings by analyzing the data flow and evaluating transformations.
 - Experience in Dimensional Data Modeling, Slowly Changing Dimensions Type I & II, Star Schema /Snowflake Schema modeling, Fact & Dimension tables, pulling data from the Facts and dimension in the reporting layer.
