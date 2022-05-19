@@ -4,5 +4,5 @@ excerpt: "House Price Prediction<br/>"
 collection: portfolio
 ---
 
-Hotel Review Analysis is done by analyzing the review comments, as well as the ratings, which are given on a scale of 1-5. The data is from Kaggle, an extract from Tripadvisor. In the future, multiple models will be built and then it will be trained to give results based on the review comment as input. The analysis will be done on the ratings and reviews, and a conclusion will be drawn.
+We took this topic for predicting house prices under such a housing boom so that people could make better decisions for home investments. Each succeeding research has generally improved the predictive power of the model by emphasizing the attributes of the property such as the housing site, housing quality, geographical location, and environment.
 Details of [Project 7](https://github.com/rohvalder/Project-Portfolio/tree/gh-pages/Project%206)
