@@ -1,6 +1,6 @@
 ---
 title: "Project 9"
-excerpt: "House Price Prediction<br/>"
+excerpt: "Divorce Prediction<br/>"
 collection: portfolio
 ---
 
