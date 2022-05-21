@@ -4,5 +4,5 @@ excerpt: "Movie Recommendation<br/>"
 collection: portfolio
 ---
 
-We took this topic for predicting house prices under such a housing boom so that people could make better decisions for home investments. Each succeeding research has generally improved the predictive power of the model by emphasizing the attributes of the property such as the housing site, housing quality, geographical location, and environment.
+As in Netflix, we receive recommendations of movies to be watched based on the list of movies watched in the past; I plan to analyze the reviews and recommend movies for future watch. The movies are ranked considering the average of all the reviews for a movie, and the top 10 of them, are suggested to be watched. Recommend ten movies to the user based on the reviews received.
 Details of [Project 8](https://github.com/rohvalder/Project-Portfolio/tree/gh-pages/Project%207)
