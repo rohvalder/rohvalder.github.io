@@ -1,6 +1,6 @@
 ---
 title: "Project 8"
-excerpt: "House Price Prediction<br/>"
+excerpt: "Movie Recommendation<br/>"
 collection: portfolio
 ---
 
