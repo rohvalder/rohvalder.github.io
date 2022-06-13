@@ -11,7 +11,7 @@ redirect_from:
 **PROFESSIONAL SUMMARY**
 
 	
-- More than 16 years of strong experience in the areas of Software Design, Development, Testing, Support and Administration in Insurance Domain, Corporate Investment & Wealth Management Banking Domain, Integrated Supply & Trading in Oil, Gas & Power Domain, and Retail Domain.
+- More than 17 years of strong experience in the areas of Software Design, Development, Testing, Support and Administration in Insurance Domain, Corporate Investment & Wealth Management Banking Domain, Integrated Supply & Trading in Oil, Gas & Power Domain, and Retail Domain.
 - Have worked on Python and R programming academic projects.
 - Good skills in Informatica, Control M, Erwin, SSIS/SSRS, Teradata, Oracle, UDB, SAP, MS SQL Server, and MS Excel
 - I have interviewed and screened a lot of candidates for ETL positions for various clients
@@ -30,6 +30,6 @@ redirect_from:
 - ITIL Foundation Certified
 
 **EDUCATION**
-- Master of Science (Data Science): Bellevue University, Nebraska, 2019 - Present
+- Master of Science (Data Science): Bellevue University, Nebraska, 2019 - 2022
 - Bachelor’s in Information Science: Visvesvaraya Technological University, India, 2000 - 2004
 
