@@ -11,10 +11,9 @@ redirect_from:
 **PROFESSIONAL SUMMARY**
 
 	
-- More than 17 years of strong experience in the areas of Software Design, Development, Testing, Support and Administration in Insurance Domain, Corporate Investment & Wealth Management Banking Domain, Integrated Supply & Trading in Oil, Gas & Power Domain, and Retail Domain.
+- More than 19 years of strong experience in the areas of Software Architecture, Development, Testing, Support and Administration in Insurance Domain, Corporate Investment & Wealth Management Banking Domain, Integrated Supply & Trading in Oil, Gas & Power Domain, and Retail Domain.
 - Have worked on Python and R programming academic projects.
 - Good skills in Informatica, Control M, Erwin, SSIS/SSRS, Teradata, Oracle, UDB, SAP, MS SQL Server, and MS Excel
-- I have interviewed and screened a lot of candidates for ETL positions for various clients
 - Involved in all phases of SDLC (Software Development Life Cycle) including system analysis, design, coding, testing, debugging, support, administration, and documentation
 - Worked on Remedy ITSM, Business Objects, and Tableau to develop reports as per specification
 - Administration of Informatica, JBoss, SAS, Splunk, Rightfax, Tableau, IIS, and Sharepoint
@@ -30,6 +29,6 @@ redirect_from:
 - ITIL Foundation Certified
 
 **EDUCATION**
-- Master of Science (Data Science): Bellevue University, Nebraska, 2019 - 2022
-- Bachelor’s in Information Science: Visvesvaraya Technological University, India, 2000 - 2004
+- Master of Science (Data Science): Bellevue University, Nebraska
+- Bachelor’s in Information Science: Visvesvaraya Technological University, India
 
