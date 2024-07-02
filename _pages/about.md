@@ -30,5 +30,5 @@ redirect_from:
 
 **EDUCATION**
 - Master of Science (Data Science): Bellevue University, Nebraska
-- Bachelor’s in Information Science: Visvesvaraya Technological University, India
+- Bachelor of Engineering (Information Science): Visvesvaraya Technological University, India
 
